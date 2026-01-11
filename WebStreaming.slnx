@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Streaming.Application/Streaming.Application.csproj" />
+  <Project Path="Streaming.Infrastructure/Streaming.Infrastructure.csproj" />
+  <Project Path="Streaming.Model/Streaming.Model.csproj" />
+  <Project Path="WebStreaming/WebStreaming.csproj" />
+</Solution>
